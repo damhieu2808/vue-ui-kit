@@ -10,6 +10,9 @@
 ![Storybook](https://img.shields.io/badge/Storybook-8.x-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Tested_with-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![CI](https://github.com/damhieu2808/vue-ui-kit/actions/workflows/ci.yml/badge.svg)
+
+[📖 Live Storybook →](https://damhieu2808.github.io/vue-ui-kit)
 
 </div>
 
