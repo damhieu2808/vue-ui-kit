@@ -1,0 +1,57 @@
+:root {
+  /* Brand */
+  --v-color-primary: #42b883;
+  --v-color-primary-dark: #33a06f;
+  --v-color-primary-light: #f0fdf8;
+
+  --v-color-secondary: #35495e;
+  --v-color-secondary-dark: #2a3a4a;
+
+  /* Semantic */
+  --v-color-danger: #ef4444;
+  --v-color-danger-dark: #dc2626;
+  --v-color-danger-light: #fef2f2;
+
+  --v-color-warning: #f59e0b;
+  --v-color-warning-dark: #d97706;
+  --v-color-warning-light: #fffbeb;
+
+  --v-color-success: #42b883;
+  --v-color-success-dark: #33a06f;
+  --v-color-success-light: #f0fdf8;
+
+  --v-color-info: #3b82f6;
+  --v-color-info-dark: #2563eb;
+  --v-color-info-light: #eff6ff;
+
+  /* Text */
+  --v-text-primary: #1e293b;
+  --v-text-secondary: #64748b;
+  --v-text-placeholder: #94a3b8;
+  --v-text-disabled: #cbd5e1;
+  --v-text-inverse: #ffffff;
+
+  /* Surface */
+  --v-surface-base: #ffffff;
+  --v-surface-raised: #f8fafc;
+
+  /* Border */
+  --v-border-color: #e2e8f0;
+  --v-border-color-focus: #42b883;
+  --v-border-color-error: #ef4444;
+
+  /* Radius */
+  --v-radius-sm: 4px;
+  --v-radius-md: 6px;
+  --v-radius-lg: 10px;
+  --v-radius-full: 9999px;
+
+  /* Shadow */
+  --v-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.06);
+  --v-shadow-md: 0 4px 16px rgba(0, 0, 0, 0.12);
+  --v-shadow-overlay: 0 8px 32px rgba(0, 0, 0, 0.18);
+
+  /* Transition */
+  --v-duration: 0.15s;
+  --v-easing: ease;
+}
